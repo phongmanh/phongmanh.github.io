@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.phongmanh.spike.applinks",
+    "sha256_cert_fingerprints": ["0E:AE:60:76:07:4E:BF:2A:72:6A:E8:E5:D6:2A:20:A4:89:6A:4B:85:7D:23:FD:55:81:B8:7B:05:98:D1:A5:60"]
+  }
+}]
